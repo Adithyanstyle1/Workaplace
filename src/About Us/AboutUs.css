@@ -1,0 +1,45 @@
+.title h1{
+    text-align: center;
+}
+
+.workaplace img{
+    width: 1340px;
+    height: 600px;
+    margin-bottom: 20px;
+   
+}
+
+.about h1{
+    padding-right: 1200px;
+}
+.about p{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.one{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+
+.workspace-image img{
+    width:900px;
+    height:500px;
+   
+}
+
+.workspace-container{
+padding-left: 120px;
+}
+
+.aboutus-locations{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.aboutus-locations-image img{
+    width:500px;
+    height:300px;
+
+}

@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+   justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    text-align: left;
+}
+
+.footer ul li{
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 600;
+   
+
+}
+.footer ul{
+    padding: 0;
+    margin: 0;
+}
+.company {
+    padding-left: 100px;
+   
+
+}
+.legal{
+ padding-right: 100px;
+}
+.footer h1{
+    font-size: 24px;
+}

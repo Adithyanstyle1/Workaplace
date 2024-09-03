@@ -1,0 +1,71 @@
+.land img{
+    width: 1340px;
+    height: 600px;
+    margin-bottom: 20px;
+   
+}
+.land p{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+
+.our-clients{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.our-clients-image img{
+    width:500px;
+    height:300px;
+    padding-left:50px;
+
+}
+
+
+.our-clients {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.our-clients-container {
+    display: flex;
+    justify-content: center;
+}
+
+.client-container {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    margin: 20px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.client-container h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+   text-align: left;
+}
+
+.client-container p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.nameofclient {
+    background-color: black;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+.nameofclient h2 {
+    color: white;
+    font-size: 18px;
+    margin: 0;
+}
